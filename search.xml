@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/post/about.html"/>
+      <url>/post/about.html</url>
+      
+        <content type="html"><![CDATA[<p>大家好，这是我的第一篇博客。😋😋😋</p><p>我叫Looanthony，男，👨‍💻计算机科学与技术专业👨‍💻在读大学生。</p><p>对于刚读大一的我来说，在平常的学习中只浅浅学过一些HTML语言、C语言、Java语言，在修改代码的过程中一堆东西都看不懂，修改的过程中只有不断尝试和理解，马上即将踏入大二学习的我，趁着暑假的机会多多学习，这不能算是内卷，因为山外有山，人外有人！</p><p>搭建这个个人博客采用的GitHub和Hexo框架，而Hexo框架采用的主题是butterfly，这个框架的渲染效果挺棒的，但是由于是白嫖的，比如文章末尾的评论系统，别问为什么，问就是没钱！！！当然我将自己的联系方式放在了肉眼可见的地方，你们可以通过github，QQ-email，QQ等方式和我联系，同时右下角的在线聊天系统也打开了，也能和我进行一对一聊天！</p><p>如果你觉得有用或者喜欢这个的话，不妨点击下面的打赏对Loo支持👍👍👍一波吧。当然，别忘了在文章末尾留言评论！！！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 简介 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 简介 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
