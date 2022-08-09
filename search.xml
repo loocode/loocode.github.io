@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>wiki知识库即将上线</title>
+      <link href="/post/dfs56s3d3.html"/>
+      <url>/post/dfs56s3d3.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="一、wiki知识库"><a href="#一、wiki知识库" class="headerlink" title="一、wiki知识库"></a>一、wiki知识库</h1><ol><li>它是一款轻量级、功能强大的 wiki 开源项目，拥有评论、Markdown 编辑器、图片上传、标签、全局搜索、协同编辑、编辑历史、用户管理、谷歌分析等功能，而且支持高度自定义。</li><li>用到的技术栈也不同于老旧的 wiki 系统，它采用了 Node.js、PostgreSQL、Vue.js、Docker 等技术。基于 Docker 实现的一键部署，颇有 WordPress 之风，不要太爽！</li><li>重点是支持中文，而且界面简洁还不失美感，这点足以让它在众多同类项目中脱颖而出。</li></ol><p>看到这儿，你是不是手痒了呢？下面就和我一起来让它跑起来吧！</p><h1 id="二、安装"><a href="#二、安装" class="headerlink" title="二、安装"></a>二、安装</h1><p>根据wiki官方文档进行调整。</p><p>专属我的wiki知识库：就不该诉你，嘿嘿</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java学习笔记（一）</title>
       <link href="/post/7d34cd4f.html"/>
       <url>/post/7d34cd4f.html</url>
