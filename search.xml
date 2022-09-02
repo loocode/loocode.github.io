@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Python学习笔记</title>
+      <link href="/post/297a89d9.html"/>
+      <url>/post/297a89d9.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Python入门"><a href="#Python入门" class="headerlink" title="Python入门"></a><header align="center">Python入门</header></h1><h2 id="一-python安装"><a href="#一-python安装" class="headerlink" title="一.python安装"></a>一.python安装</h2><h2 id="二-python语言基础"><a href="#二-python语言基础" class="headerlink" title="二.python语言基础"></a>二.python语言基础</h2><h2 id="三-运算符和表达式"><a href="#三-运算符和表达式" class="headerlink" title="三.运算符和表达式"></a>三.运算符和表达式</h2><h2 id="四-流程控制语句"><a href="#四-流程控制语句" class="headerlink" title="四.流程控制语句"></a>四.流程控制语句</h2><h2 id="五-列表和元组"><a href="#五-列表和元组" class="headerlink" title="五.列表和元组"></a>五.列表和元组</h2><h2 id="六-字典和集合"><a href="#六-字典和集合" class="headerlink" title="六.字典和集合"></a>六.字典和集合</h2><h2 id="七-字符串"><a href="#七-字符串" class="headerlink" title="七.字符串"></a>七.字符串</h2><h1 id="Python进阶"><a href="#Python进阶" class="headerlink" title="Python进阶"></a><header align="center">Python进阶</header></h1><h2 id="一-正则表达式"><a href="#一-正则表达式" class="headerlink" title="一.正则表达式"></a>一.正则表达式</h2><p>正则：用来匹配字符串的一门表达式语言（简写：regex或RE,又称为“规则表达式”）</p><p>👍：<a href="https://tool.oschina.net/regex">正则表达式在线练习平台</a></p><ol><li><p>支持普通字符</p></li><li><p>元字符（一个符号就能匹配一堆内容）</p></li></ol><table><thead><tr><th align="center">符号</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center">\d</td><td align="center">匹配一个数字（0-9）</td></tr><tr><td align="center">\w</td><td align="center">匹配一个数字、字母、下划线（0-9，a-z，A-Z,_）</td></tr><tr><td align="center">\D</td><td align="center">匹配除数字以外的内容</td></tr><tr><td align="center">\W</td><td align="center">匹配除数字，字母，下划线以外内容</td></tr><tr><td align="center">[abc]</td><td align="center">匹配[]内的单个字符，如a,b,c</td></tr><tr><td align="center">[^abc]</td><td align="center">匹配除^后的内容，如除a,b,c以外字符</td></tr><tr><td align="center">.</td><td align="center">匹配除换行符以外的其它所有内容！！！</td></tr><tr><td align="center">\b</td><td align="center">匹配单词的开始或结束</td></tr><tr><td align="center">^</td><td align="center">匹配字符串的开始</td></tr><tr><td align="center">$</td><td align="center">匹配字符串的结束</td></tr><tr><td align="center">\s</td><td align="center">匹配任意的空白符</td></tr></tbody></table><p>3.限定符（量词，控制元字符出现的频次）</p><table><thead><tr><th align="center">符号</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center">+</td><td align="center">前面的元字符出现了1次或多次</td></tr><tr><td align="center">*</td><td align="center">前面的元字符出现0次或多次，贪婪匹配，尽可能多的拿到数据</td></tr><tr><td align="center">?</td><td align="center">前面的元字符出现了0次或1次</td></tr><tr><td align="center">{n}</td><td align="center">前面的字符出现n次</td></tr><tr><td align="center">{n,}</td><td align="center">前面的元字符出现最少n次</td></tr><tr><td align="center">{n,m}</td><td align="center">前面的元字符出现最少n次，最多m次</td></tr></tbody></table><p>4.惰性匹配（爬虫重点）            .*?</p><p>​说明：匹配到距离xxx最近的内容</p><h2 id="二、内置模块re"><a href="#二、内置模块re" class="headerlink" title="二、内置模块re"></a>二、内置模块re</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习笔记 </tag>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java学习笔记（二）</title>
       <link href="/post/4d222197.html"/>
       <url>/post/4d222197.html</url>
